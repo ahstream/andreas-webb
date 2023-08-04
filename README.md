@@ -1,3 +1,3 @@
 # README
 
-URL: https://ahstream.github.io/andreas-webb/
+URL: https://ahstream.github.io/web
